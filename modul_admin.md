@@ -33,7 +33,7 @@ Sebelum memasukkan data guru atau siswa, pastikan fondasi sekolah sudah diatur d
 4. **Kelas**: Buat rombongan belajar (rombel) berdasarkan tingkat (misal: X MIPA 1, X IPS 2).
 5. **Mata Pelajaran**: Masukkan seluruh daftar mata pelajaran yang diajarkan di sekolah beserta kelompoknya (Muatan Nasional, Kewilayahan, dll).
 
-![Gambar Pengaturan Master Data](Gambar/Admin/Screenshot_71.jpg)
+![Gambar Pengaturan Master Data](Gambar/Admin/Screenshot_72.jpg)
 
 ![Gambar Pengaturan Master Data](Gambar/Admin/Screenshot_76.jpg)
 
