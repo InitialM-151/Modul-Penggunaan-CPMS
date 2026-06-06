@@ -28,7 +28,11 @@ Kamu bisa menggunakan fitur penunjang ibadah kapan pun kamu butuh. Caranya denga
 1. **Al-Quran Digital**: Fitur untuk membaca Al-Quran dengan tampilan bersih. Membantu kamu tadarus kapan saja. Terdapat 30 Juz lengkap dengan terjemahannya.
 2. **Jadwal Sholat**: Menampilkan waktu sholat hari ini berdasarkan kota tempat kamu tinggal. Kamu juga bisa melihat waktu mundur (*countdown*) ke jam sholat selanjutnya, pastikan kamu tidak telat beribadah!
 
-> ![Gambar Fitur Keagamaan Siswa](isi_dengan_path_atau_url_gambar_keagamaan_siswa)
+![Gambar Fitur Profile](Gambar/Guru/Screenshot_61.jpg)
+
+![Gambar Al-Quran Digital](Gambar/Guru/Screenshot_62.jpg)
+
+![Gambar Jadwal Sholat](Gambar/Guru/Screenshot_67.jpg)
 
 ---
 
