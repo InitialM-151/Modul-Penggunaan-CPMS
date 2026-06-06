@@ -56,7 +56,7 @@ Digunakan untuk memantau hasil rekap absensi kelas, di semua kelas yang diampu.
 3. Anda Akan melihat rekap absensi, kehadiran siswa.
 5. Anda juga bisa mengekspor data rekap ini.
 
-> ![Gambar Halaman Nilai](Gambar/Guru/Screenshot_69.jpg)
+> ![Gambar Halaman Nilai](Gambar/Guru/Screenshot_57.jpg)
 
 ### C. Materi (Materi Pelajaran)
 Digunakan untuk mengunggah materi bacaan, vidio, dan link web bacaan.
@@ -65,7 +65,7 @@ Digunakan untuk mengunggah materi bacaan, vidio, dan link web bacaan.
 3. masukan komponen judul, keterangan, tipe materi, dan pilih file yang akan di unggah.
 5. klik **Simpan** Sistem akan secara mengirim file materi ke semua siswa.
 
-> ![Gambar Halaman Nilai](Gambar/Guru/Screenshot_69.jpg)
+> ![Gambar Halaman Nilai](Gambar/Guru/Screenshot_58.jpg)
 
 ### D. Penilaian (Nilai Siswa)
 Digunakan untuk memasukkan nilai tugas, ulangan, atau ujian siswa.
@@ -75,7 +75,7 @@ Digunakan untuk memasukkan nilai tugas, ulangan, atau ujian siswa.
 4. Klik **Simpan**. Sistem akan secara otomatis menghitung nilai akhir/rata-rata berdasarkan bobot yang telah dikonfigurasi.
 5. Anda juga bisa mengekspor data nilai ini.
 
-> ![Gambar Halaman Nilai](Gambar/Guru/Screenshot_69.jpg)
+> ![Gambar Halaman Nilai](Gambar/Guru/Screenshot_59.jpg)
 
 ### E. Jurnal
 Sebagai buku catatan (log) aktivitas mengajar Bapak/Ibu.
