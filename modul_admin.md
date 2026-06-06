@@ -55,7 +55,7 @@ Anda bisa menginput data satu-per-satu atau **Import dari Excel**.
 
 ![Gambar Manajemen Pengguna](Gambar/Admin/Screenshot_79.jpg)
 
-![Gambar Manajemen Pengguna](Gambar/Guru/Screenshot_guru.jpg)
+![Gambar Manajemen Pengguna](Gambar/Admin/data_guru.jpeg)
 
 ![Gambar Manajemen Pengguna](Gambar/Admin/Screenshot_81.jpg)
 
