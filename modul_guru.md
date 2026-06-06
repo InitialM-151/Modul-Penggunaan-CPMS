@@ -7,7 +7,7 @@ Selamat datang di Sistem Informasi Akademik. Modul ini disusun untuk membantu Ba
 2. Masukkan **Email/Username** dan **Password** yang telah didaftarkan oleh Administrator.
 3. Klik tombol **Login**. Jika berhasil, Anda akan dialihkan ke halaman **Beranda (Dashboard) Guru**.
 
-> ![Gambar Halaman Login](isi_dengan_path_atau_url_gambar_login)
+> ![Gambar Halaman Login](blob/main/Gambar/Guru/Screenshot_52.jpg)
 
 ---
 
