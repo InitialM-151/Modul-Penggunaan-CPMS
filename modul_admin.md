@@ -11,7 +11,16 @@ Panduan ini disusun secara berurutan sesuai alur kerja (*workflow*) pengaturan s
 2. Masukkan **Email** dan **Password** Admin Anda.
 3. Klik tombol **Login**. Anda akan masuk ke halaman utama **Dashboard Admin Akademik**.
 
-> ![Gambar Halaman Login Admin](isi_dengan_path_atau_url_gambar_login_admin)
+![Gambar Halaman Login Admin](Gambar/Screenshot_53.jpg)
+
+## 2. Dashboard Admin
+1. Setelah berhasil masuk.
+2. Anda akan di perlihatkan dashboard statistik realtime, mulai dari kelas yang berjalan, siswa yang tidak hadir. dan jadwal semua pelajaran di hari itu.
+3. Klik tombol **Layah penuh**. Anda akan menampilkan dashboard statistik fullscreen yang cocok di tampilkan di layar TV / Monitor.
+
+![Gambar Halaman Login Admin](Gambar/Admin/Screenshot_70.jpg)
+
+![Gambar Halaman Login Admin](Gambar/Admin/Screenshot_71.jpg)
 
 ---
 
@@ -24,7 +33,15 @@ Sebelum memasukkan data guru atau siswa, pastikan fondasi sekolah sudah diatur d
 4. **Kelas**: Buat rombongan belajar (rombel) berdasarkan tingkat (misal: X MIPA 1, X IPS 2).
 5. **Mata Pelajaran**: Masukkan seluruh daftar mata pelajaran yang diajarkan di sekolah beserta kelompoknya (Muatan Nasional, Kewilayahan, dll).
 
-> ![Gambar Pengaturan Master Data](isi_dengan_path_atau_url_gambar_master_data)
+![Gambar Pengaturan Master Data](Gambar/Admin/Screenshot_71.jpg)
+
+![Gambar Pengaturan Master Data](Gambar/Admin/Screenshot_76.jpg)
+
+![Gambar Pengaturan Master Data](Gambar/Admin/Screenshot_75.jpg)
+
+![Gambar Pengaturan Master Data](Gambar/Admin/Screenshot_73.jpg)
+
+![Gambar Pengaturan Master Data](Gambar/Admin/Screenshot_74.jpg)
 
 ---
 
@@ -36,7 +53,11 @@ Anda bisa menginput data satu-per-satu atau **Import dari Excel**.
 2. **Guru**: Masukkan data tenaga pendidik. Pastikan alamat *email* benar agar guru bisa *login*.
 3. **Siswa**: Masukkan data peserta didik baru atau sisipkan siswa pindahan. Pada saat menambah siswa, sistem akan meminta Anda menempatkan siswa tersebut ke **Kelas** yang sudah dibuat di tahap sebelumnya.
 
-> ![Gambar Manajemen Pengguna](isi_dengan_path_atau_url_gambar_user_management)
+![Gambar Manajemen Pengguna](Gambar/Admin/Screenshot_79.jpg)
+
+![Gambar Manajemen Pengguna](Gambar/Admin/Screenshot_guru.jpg)
+
+![Gambar Manajemen Pengguna](Gambar/Admin/Screenshot_81.jpg)
 
 ---
 
@@ -47,24 +68,33 @@ Tahap ini wajib diselesaikan sebelum KBM berjalan agar guru dapat melakukan abse
 2. **Sesi Waktu**: Masuk ke menu Jadwal > Sesi Waktu. Atur jam masuk dan jam pulang (Jam ke-1, Jam ke-2, Jam Istirahat, dll).
 3. **Jadwal Pelajaran**: Susun jadwal mingguan. Tempatkan penugasan mengajar guru ke dalam blok-blok waktu dan hari yang telah tersedia.
 
-> ![Gambar Penugasan dan Jadwal](isi_dengan_path_atau_url_gambar_jadwal_pelajaran)
+![Gambar Penugasan dan Jadwal](Gambar/Admin/Screenshot_83.jpg)
+
+![Gambar Penugasan dan Jadwal](Gambar/Admin/Screenshot_82.jpg)
+
+![Gambar Penugasan dan Jadwal](Gambar/Admin/Screenshot_84.jpg)
 
 ---
 
 ## 5. Ekstrakurikuler
-1. Buka menu **Ekstrakurikuler**.
+1. Buka menu **Master data > Ekstrakurikuler**.
 2. Daftarkan jenis ekstrakurikuler yang ada di sekolah beserta pembinanya.
 3. Masuk ke **Manajemen Anggota** untuk memasukkan siswa-siswa ke dalam ekstrakurikuler pilihannya.
 
-> ![Gambar Ekstrakurikuler](isi_dengan_path_atau_url_gambar_ekstrakurikuler)
+> ![Gambar Ekstrakurikuler](Gambar/Admin/Screenshot_77.jpg)
 
 ---
 
 ## 6. Operasional Berjalan (Fitur Harian)
 Saat sekolah sudah berjalan, Administrator mengelola hal-hal insidental:
 
-1. **Prestasi & Pelanggaran**: Masukkan catatan jika ada siswa yang memenangkan lomba atau melanggar aturan tata tertib.
-2. **Kenaikan & Pindah Kelas**: Pada akhir semester/tahun, gunakan menu ini untuk memindahkan siswa secara massal ke kelas yang lebih tinggi.
+1. **Master Pengguna > Prestasi Siswa**: Masukkan catatan jika ada siswa yang memenangkan lomba selama di sekolah.
+
+![Gambar Manajemen Pengguna](Gambar/Admin/Screenshot_81.jpg)
+
+2. **Kenaikan & Pindah Kelas**: Pada akhir semester/tahun, gunakan menu ini untuk memindahkan siswa secara massal ke kelas yang lebih tinggi dan merubah status jadi alumni / lulus bagi kelas akhir..
+
+![Gambar Manajemen Pengguna](Gambar/Admin/Screenshot_77.jpg)
 
 ---
 
@@ -76,7 +106,7 @@ Buka menu **Laporan**, Anda bisa mengunduh:
 - Rekap Presensi Siswa Global
 - Rekap Nilai Siswa Global
 
-> ![Gambar Pusat Laporan](isi_dengan_path_atau_url_gambar_laporan)
+![Gambar Pusat Laporan](Gambar/Admin/Screenshot_86.jpg)
 
 ---
 
