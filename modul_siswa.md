@@ -28,7 +28,7 @@ Kamu bisa menggunakan fitur penunjang ibadah kapan pun kamu butuh. Caranya denga
 1. **Al-Quran Digital**: Fitur untuk membaca Al-Quran dengan tampilan bersih. Membantu kamu tadarus kapan saja. Terdapat 30 Juz lengkap dengan terjemahannya.
 2. **Jadwal Sholat**: Menampilkan waktu sholat hari ini berdasarkan kota tempat kamu tinggal. Kamu juga bisa melihat waktu mundur (*countdown*) ke jam sholat selanjutnya, pastikan kamu tidak telat beribadah!
 
-![Gambar Fitur Profile](Gambar/Guru/Screenshot_61.jpg)
+![Gambar Fitur Profile](Gambar/Siswa/Screenshot_59.jpg)
 
 ![Gambar Al-Quran Digital](Gambar/Guru/Screenshot_62.jpg)
 
@@ -44,27 +44,46 @@ Ini adalah menu-menu utama untuk mengecek kemajuan belajarmu. Kamu bisa menemuka
 2. Kamu akan melihat kalender/daftar mata pelajaran yang harus kamu ikuti setiap harinya.
 3. Pastikan mengecek jadwal ini setiap malam agar tidak salah membawa buku esok harinya!
 
-> ![Gambar Jadwal Pelajaran Siswa](isi_dengan_path_atau_url_gambar_jadwal_siswa)
+![Gambar Jadwal Pelajaran Siswa](Gambar/Siswa/Screenshot_54.jpg)
 
 ### B. Kehadiran (Absensi)
 1. Buka menu **Akademik > Kehadiran**.
 2. Kamu bisa memantau statistik kehadiranmu di kelas (jumlah Hadir, Izin, Sakit, atau Alpa).
 3. Semakin penuh kehadiranmu, semakin baik prestasimu!
 
+![Gambar Jadwal Pelajaran Siswa](Gambar/Siswa/Screenshot_55.jpg)
+
 ### C. Daftar Nilai
 1. Buka menu **Akademik > Nilai**.
 2. Di sini, hasil belajarmu dari tugas, kuis, dan ujian akan ditampilkan oleh guru.
 3. Kamu bisa melihat rincian nilaimu per mata pelajaran. Gunakan info ini untuk mengetahui di pelajaran mana kamu perlu belajar lebih giat lagi.
 
-> ![Gambar Daftar Nilai Siswa](isi_dengan_path_atau_url_gambar_nilai_siswa)
+![Gambar Daftar Nilai Siswa](Gambar/Siswa/Screenshot_57.jpg)
+
+### D. Materi Pelajaran
+1. Buka menu **Akademik > Materi**.
+2. Kamu bisa melihat materi yang di berikan guru pengampu mata pelajaran.
+3. Kamu bisa mengunduh dan mempelajari materi materi yang diberikan.
+
+![Gambar Materi Pelajaran](Gambar/Siswa/Screenshot_56.jpg)
+
+### E. Prestasi
+1. Buka menu **Akademik > Prestasi**.
+2. Kamu bisa melihat prestasi yang sudah kamu dapatkan selama ada di sekolah.
+3. Kamu bisa mengunduh dan sertifikat atau foro yang di tampilkan.
+
+![Gambar Materi Pelajaran](Gambar/Siswa/Screenshot_58.jpg)
 
 ---
 
 ## 5. Pengaturan Profil
 1. Klik **Foto Profil** di kanan atas, lalu pilih **Profil Siswa**.
 2. Di sini kamu bisa melihat data dirimu. Jika ada kesalahan data (seperti nama atau alamat e-mail), segera laporkan ke Admin Tata Usaha untuk diperbaiki.
+3. Kamu bisa menautkan emailmu untuk bisa masuk dengan menggunakan emailmu.
 
-> ![Gambar Profil Siswa](isi_dengan_path_atau_url_gambar_profil_siswa)
+![Gambar Profil Siswa](Gambar/Siswa/Screenshot_60.jpg)
+
+![Gambar Profil Siswa](Gambar/Siswa/Screenshot_61.jpg)
 
 ---
 
@@ -74,4 +93,5 @@ Untuk menjaga keamanan akunmu agar tidak dipakai oleh orang lain, biasakan selal
 2. Pilih opsi **Logout**.
 
 ---
-*Semangat belajar dan raih cita-citamu! Jika kamu lupa password, tanyakan kepada Bapak/Ibu guru wali kelasmu.*
+*Akan banyak modul informasi yang akan ada di halaman siswa, tunggu saja update selanjutnya*
+*Semangat belajar dan raih cita-citamu! Jika kamu lupa password, tanyakan kepada Bapak/Ibu guru wali kelasmu atau admin.*
