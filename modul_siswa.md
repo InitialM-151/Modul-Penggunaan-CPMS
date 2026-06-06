@@ -16,7 +16,7 @@ Di halaman awal ini, kamu bisa melihat info kilat mengenai kegiatan belajarmu ha
 - Terdapat ringkasan tentang jadwal pelajaran yang sedang atau akan berlangsung.
 - Ada kotak menu cepat (*quick access*) yang bisa kamu klik untuk langsung menuju ke halaman yang diinginkan.
 
-> ![Gambar Dashboard Siswa](isi_dengan_path_atau_url_gambar_dashboard_siswa)
+![Gambar Dashboard Siswa](Gambar/Screenshot_53.jpg)
 
 ---
 
