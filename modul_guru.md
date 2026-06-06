@@ -7,7 +7,7 @@ Selamat datang di Sistem Informasi Akademik. Modul ini disusun untuk membantu Ba
 2. Masukkan **Email/Username** dan **Password** yang telah didaftarkan oleh Administrator.
 3. Klik tombol **Login**. Jika berhasil, Anda akan dialihkan ke halaman **Beranda (Dashboard) Guru**.
 
-> ![Gambar Halaman Login]https://github.com/InitialM-151/Modul-Penggunaan-CPMSblob/main/Gambar/Guru/Screenshot_52.jpg
+> ![Gambar Halaman Login](Gambar/Guru/Screenshot_52.jpg)
 
 ---
 
