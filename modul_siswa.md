@@ -6,8 +6,9 @@ Selamat datang di Sistem Informasi Akademik. Modul panduan ini disusun untuk mem
 1. Buka halaman web aplikasi dari *smartphone* atau komputermu.
 2. Masukkan **NIS/Username** dan **Password** yang diberikan oleh wali kelas atau admin sekolah.
 3. Tekan tombol **Login**. Setelah berhasil, kamu akan masuk ke halaman utama (Dashboard).
+4. Jika sudah menautkan alamat email di pengaturan profil bisa masuk dengan menekan tombol **Masuk dengan google**
 
-> ![Gambar Halaman Login Siswa](isi_dengan_path_atau_url_gambar_login_siswa)
+![Gambar Halaman Login Siswa](Gambar/Screenshot_53.jpg)
 
 ---
 
@@ -16,7 +17,9 @@ Di halaman awal ini, kamu bisa melihat info kilat mengenai kegiatan belajarmu ha
 - Terdapat ringkasan tentang jadwal pelajaran yang sedang atau akan berlangsung.
 - Ada kotak menu cepat (*quick access*) yang bisa kamu klik untuk langsung menuju ke halaman yang diinginkan.
 
-![Gambar Dashboard Siswa](Gambar/Screenshot_53.jpg)
+![Gambar Dashboard Siswa](Gambar/Siswa/Screenshot_52.jpg)
+
+![Gambar Dashboard Siswa](Gambar/Siswa/Screenshot_53.jpg)
 
 ---
 
